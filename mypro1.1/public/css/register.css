@@ -1,0 +1,98 @@
+.register>.container{
+    height:800px;
+}
+.register_form>p.strong+div>div{
+    width:582px;
+    height:30px;
+
+    background:url("../img/login_icon.png") no-repeat;
+    background-position: 533px 0;
+}
+.register_form>p.strong+div>div>p.register_left{
+    background:#2DB4EA;
+    width:533px;
+    line-height:30px;
+}
+.register_form>p.strong+div>div+p.register_right{
+    width:533px;
+    line-height:30px;
+    height:30px;
+    background:#E8E8E8;
+    margin-left:-5px;
+}
+.register>.container>.register_form>form{
+    margin-left:300px;
+}
+.register>.container>.register_form>form>ul>li{
+    width:470px;
+    height:50px;
+    margin-top:10px;
+}
+.register>.container>.register_form>form>ul>li>input{
+    outline-style: none;
+    width:280px;
+    height:34px;
+    border: 1px solid #DDDDDD;
+}
+.register>.container>.register_form>form>ul>li>span{
+    color: #0AA1ED;
+}
+.register>.container>.register_form>form>ul>li:nth-child(2){
+    margin-left:-15px;
+
+}
+.register>.container>.register_form>form>ul>li:nth-child(3){
+    margin-left:16px;
+}
+.register>.container>.register_form>form>ul>li:nth-child(4){
+    margin-left:32px;
+}
+.register>.container>.register_form>form>ul>li:nth-child(4)>img{
+    margin-left:-32px;
+    margin-top:-4px;
+
+}
+.register>.container>.register_form>form>ul>li:nth-child(3)>input{
+    width:180px;
+}
+.register>.container>.register_form>form>ul>li:nth-child(3)>input+button{
+    background: #0AA1ED;
+    border:0;
+    padding:5px;
+    color:white;
+}
+.register>.container>.register_form>form>ul>li:nth-child(2)>input{
+    width:180px;
+}
+.register>.container>.register_form>form>ul>li:nth-child(5)>a.register_login{
+    display: inline-block;
+    height:40px;
+    width:330px;
+    background: #0AA1ED;
+    color:white;
+    text-align: center;
+    line-height: 40px;
+    border-radius:5px;
+    margin-left:41px;
+}
+.register>.container>.register_form>form>ul>li:nth-child(5)>a.register_login+a{
+    margin-left: 238px;
+    margin-top:5px;
+    font-size:14px;
+    cursor :pointer;
+    color:#0AA1ED;
+}
+.register>.container>.register_form>form>ul>li.register_reading{
+    width:330px;
+    margin-left:80px;
+    margin-top:-30px;
+
+}
+.register>.container>.register_form>form>ul>li.register_reading>input{
+    height:13px;
+    width:13px;
+}
+.register>.container>.register_form>form>ul>li.register_reading>a{
+    color:#0AA1ED;
+    font-size:14px;
+}

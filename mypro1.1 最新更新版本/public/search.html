@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name = "viewport" content = "width=device-width,initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/search.css">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    
+    <title>Title</title>
+</head>
+<body>
+    <header id="header">
+    </header>
+    <div class="search">
+        <div class="container">
+            <!--全部分类-->
+            <div class="search_floor1 p-4">
+                <span class="ml-4">全部分类 共 <span class="text-primary">2</span>件商品</span>
+            </div>
+
+            <div class="d-flex">
+                <div class="text-center s_f1_left">
+                    分类
+                </div>
+                <div class="mt-4 ml-3 mr-2">
+                    <a href="">诗歌散文(1)</a>  <a class="ml-5" href="">自然科学(1)</a>
+                </div>
+            </div>
+            <div class="s_f2_left">
+                <div class="d-flex">
+                    <ul class="d-flex list-unstyled">
+                        <li>综合</li>
+                        <li>
+                            价格
+                            <img src="img/price.png" alt="">
+                        </li>
+                        <li>销量
+                            <img src="img/price.png" alt="">
+                        </li>
+                        <li>新品
+                            <img src="img/price.png" alt="">
+                        </li>
+                        <li >促销</li>
+                        <li class="ml-0">现货</li>
+                    </ul>
+                    <div class="mt-3 ml-3 search_price">
+                        <span>价格:</span>
+                        <input type="text" class="w-50" title="">
+                        <img src="img/search_price.jpg" alt="" class="img_up">
+                        <img src="img/search_price.jpg" alt="" class="img_up bottom">
+                       <span class="ml-2">-</span>
+                    </div>
+                    <div class="mt-3 search_price">
+                        <input type="text" class="w-50" title="">
+                        <img src="img/search_price.jpg" alt="" class="img_up">
+                        <img src="img/search_price.jpg" alt="" class="img_up bottom">
+                    </div>
+                    <div class="mt-3 search_price">
+                        折扣: <input type="text" class="w-50" title="">
+                        <img src="img/search_price.jpg" alt="" class="img_up">
+                        <img src="img/search_price.jpg" alt="" class="img_up bottom">
+                        <span class="ml-2">-</span>
+                    </div>
+                    <div class="mt-3 ml-1 search_price">
+                        <input type="text" class="w-50" title="">
+                        <img src="img/search_price.jpg" alt="" class="img_up">
+                        <img src="img/search_price.jpg" alt="" class="img_up bottom">
+                    </div>
+                    <input type="text" title="" class="w-25 text-center" value="检索">
+                    <div class="search_up d-flex justify-content-around">
+                        <img src="img/arrow-left.png" alt="">
+                        <span class="text-muted">1/1</span>
+                        <img src="img/arrow-right.png" alt="">
+                    </div>
+                    <svg width="30" height="30"></svg>
+                </div>
+            </div>
+            <div class="search_floor3 d-flex">
+
+                    <div class="d-flex my_floor_five_pictrue border border-gray p-2 mt-2">
+                        <div class="mt-3">
+                            <img src="img/baidurern.jpg" alt="">
+                        </div>
+                        <div class="ml-3 mt-3 ">
+                            <h6>
+                                <a href="#">摆渡人</a>
+                            </h6>
+                            <p  class="small">作者:李文华</p>
+                            <p class="small mt-2">
+                                畅销欧美33个**，荣获多项图书大奖。如果命运是一条孤独的河流，
+                                谁会是你灵魂的摆渡人？如果我真的存在，也是因为你需要我。
+                            </p>
+                            <p class="text-danger mb-0 "> &yen;61.60
+                                <span class="ml-4 small" style="text-decoration: line-through">|&yen;84.50</span>
+                            </p>
+                            <a href="#" class="my_floor_five_a mt-3" style="background: #2AB4E8;font-size:14px;color:white">
+                                <img src="img/shoppingcar.jpg" alt="">
+                                加入购物车
+                            </a>
+                        </div>
+
+                </div>
+                <div class="new_suggest w-25 mt-2">
+                    <div class="pl-0 text-center" style="height:45px; line-height:45px; width:218px;border:1px solid #BBBBBB">
+                        新品推荐
+                    </div>
+                    <ul class="pl-0">
+                        <li class="list-group-item" style="width:218px;">
+                            <a href="">
+                                <img src="img/floor4_2.png" alt="" class="img-fluid">
+                            </a>
+                            <p class="text-center mt-4">赠送思维导图</p>
+
+                            <h5 class="text-center text-danger">&yen;27.40
+                                <span class="small" style="text-decoration: line-through">
+                                |&yen;49.80
+                            </span>
+                            </h5>
+                        </li>
+                        <li class="list-group-item" style="width:218px;">
+                            <a href="">
+                                <img src="img/floor4_2.png" alt="" class="img-fluid">
+                            </a>
+                            <p class="text-center mt-4">赠送思维导图</p>
+
+                            <h5 class="text-center text-danger">&yen;27.40
+                                <span class="small" style="text-decoration: line-through">
+                                |&yen;49.80
+                            </span>
+                            </h5>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <footer id="footer"></footer>
+    <script src="js/header.js"></script>
+    <script src="js/footer.js"></script>
+</body>
+</html>

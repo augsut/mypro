@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c445d2a-2f11-48a7-b3c7-4c90cb200c18" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="header.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mypro1.1/public/css/header.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="549">
+              <caret line="499" column="18" selection-start-line="499" selection-start-column="18" selection-end-line="499" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="轮播图 组件.js" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/Tencent Files/352012326/FileRecv/轮播图 组件.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="37">
+              <caret line="99" column="12" selection-start-line="99" selection-start-column="12" selection-end-line="99" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="booku.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mypro1.1/public/booku.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="615" column="28" lean-forward="true" selection-start-line="615" selection-start-column="28" selection-end-line="615" selection-end-column="28" />
+              <folding>
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#3979#3985#0" expanded="true" />
+                <element signature="e#3985#3991#0" expanded="true" />
+                <element signature="e#4350#4356#0" expanded="true" />
+                <element signature="e#4356#4362#0" expanded="true" />
+                <element signature="e#4727#4733#0" expanded="true" />
+                <element signature="e#4733#4739#0" expanded="true" />
+                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#aside#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#31912#31917#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#32026#32031#0" expanded="true" />
+                <element signature="n#div#2;n#div#2;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#33254#33259#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#li#0;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#33428#33433#0" expanded="true" />
+                <element signature="e#34072#34077#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#li#1;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#34246#34251#0" expanded="true" />
+                <element signature="e#34906#34911#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#li#2;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#35080#35085#0" expanded="true" />
+                <element signature="e#35736#35741#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#li#3;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#35910#35915#0" expanded="true" />
+                <element signature="n#div#4;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#2;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#2;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#38154#38159#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#38272#38277#0" expanded="true" />
+                <element signature="n#div#2;n#div#2;n#div#0;n#div#2;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#39592#39597#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#li#0;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#2;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#39770#39775#0" expanded="true" />
+                <element signature="e#40458#40463#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#li#1;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#2;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#40636#40641#0" expanded="true" />
+                <element signature="e#41340#41345#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#li#2;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#2;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#41518#41523#0" expanded="true" />
+                <element signature="e#42218#42223#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#li#3;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#2;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#42396#42401#0" expanded="true" />
+                <element signature="n#div#4;n#div#0;n#div#2;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#3;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#3;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#44697#44702#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#3;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#44815#44820#0" expanded="true" />
+                <element signature="n#div#2;n#div#2;n#div#0;n#div#3;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#46135#46140#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#li#0;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#3;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#46313#46318#0" expanded="true" />
+                <element signature="e#47001#47006#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#li#1;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#3;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#47179#47184#0" expanded="true" />
+                <element signature="e#47883#47888#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#li#2;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#3;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#48061#48066#0" expanded="true" />
+                <element signature="e#48761#48766#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#li#3;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#3;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#48939#48944#0" expanded="true" />
+                <element signature="n#div#4;n#div#0;n#div#3;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#4;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#51243#51248#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#4;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#51361#51366#0" expanded="true" />
+                <element signature="n#div#2;n#div#2;n#div#0;n#div#4;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#52681#52686#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#li#0;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#4;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#52859#52864#0" expanded="true" />
+                <element signature="e#53547#53552#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#li#1;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#4;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#53725#53730#0" expanded="true" />
+                <element signature="e#54429#54434#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#li#2;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#4;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#54607#54612#0" expanded="true" />
+                <element signature="e#55307#55312#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#li#3;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#4;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#55485#55490#0" expanded="true" />
+                <element signature="n#div#4;n#div#0;n#div#4;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#5;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#5;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#57789#57794#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#5;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#57907#57912#0" expanded="true" />
+                <element signature="n#div#2;n#div#2;n#div#0;n#div#5;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#59227#59232#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#li#0;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#5;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#59405#59410#0" expanded="true" />
+                <element signature="e#60093#60098#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#li#1;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#5;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#60271#60276#0" expanded="true" />
+                <element signature="e#60975#60980#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#li#2;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#5;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#61153#61158#0" expanded="true" />
+                <element signature="e#61853#61858#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#li#3;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#5;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#62031#62036#0" expanded="true" />
+                <element signature="n#div#4;n#div#0;n#div#5;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#64011#64016#0" expanded="true" />
+                <element signature="e#64142#64147#0" expanded="true" />
+                <element signature="e#64566#64571#0" expanded="true" />
+                <element signature="e#64697#64702#0" expanded="true" />
+                <element signature="e#65121#65126#0" expanded="true" />
+                <element signature="e#65252#65257#0" expanded="true" />
+                <element signature="e#65672#65677#0" expanded="true" />
+                <element signature="e#65803#65808#0" expanded="true" />
+                <element signature="e#66227#66232#0" expanded="true" />
+                <element signature="e#66358#66363#0" expanded="true" />
+                <element signature="e#66891#66896#0" expanded="true" />
+                <element signature="e#67022#67027#0" expanded="true" />
+                <element signature="e#67448#67453#0" expanded="true" />
+                <element signature="e#67579#67584#0" expanded="true" />
+                <element signature="e#67992#67997#0" expanded="true" />
+                <element signature="e#68123#68128#0" expanded="true" />
+                <element signature="e#68543#68548#0" expanded="true" />
+                <element signature="e#68674#68679#0" expanded="true" />
+                <element signature="e#69098#69103#0" expanded="true" />
+                <element signature="e#69229#69234#0" expanded="true" />
+                <element signature="e#70849#70854#0" expanded="true" />
+                <element signature="e#70948#70953#0" expanded="true" />
+                <element signature="e#71832#71837#0" expanded="true" />
+                <element signature="e#71931#71936#0" expanded="true" />
+                <element signature="e#72805#72810#0" expanded="true" />
+                <element signature="e#72904#72909#0" expanded="true" />
+                <element signature="e#73728#73733#0" expanded="true" />
+                <element signature="e#73827#73832#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mypro1.1/public/css/index.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="1_index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mypro1.1/public/js/1_index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="204" column="21" selection-start-line="204" selection-start-column="21" selection-end-line="204" selection-end-column="21" />
+              <folding>
+                <element signature="e#239#703#0" />
+                <element signature="e#787#896#0" />
+                <element signature="e#926#964#0" />
+                <element signature="e#1292#1929#0" />
+                <element signature="n#div#0;n#!!top" />
+                <element signature="e#7290#8086#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>轮播图片</find>
+      <find>右侧</find>
+      <find>详情</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/static/header.html" />
+        <option value="$PROJECT_DIR$/static/js/1_index.js" />
+        <option value="D:/deng/DOM/dom day03/day03/11_navigator.html" />
+        <option value="$PROJECT_DIR$/static/css/header.css" />
+        <option value="$PROJECT_DIR$/static/booku.html" />
+        <option value="$PROJECT_DIR$/static/css/booku_details.css" />
+        <option value="$PROJECT_DIR$/static/booku_details.html" />
+        <option value="$PROJECT_DIR$/mypro/public/css/index.css" />
+        <option value="$PROJECT_DIR$/mypro/public/css/footer.css" />
+        <option value="$PROJECT_DIR$/mypro/public/hearder.html" />
+        <option value="$PROJECT_DIR$/mypro/public/js/hearder.js" />
+        <option value="$PROJECT_DIR$/mypro/public/js/footer.js" />
+        <option value="$PROJECT_DIR$/mypro/public/js/details.js" />
+        <option value="$PROJECT_DIR$/mypro/public/footer.html" />
+        <option value="$PROJECT_DIR$/mypro/public/css/login.css" />
+        <option value="$PROJECT_DIR$/mypro/public/css/booku_details.css" />
+        <option value="$PROJECT_DIR$/mypro/public/booku_details.html" />
+        <option value="$PROJECT_DIR$/mypro/public/css/header.css" />
+        <option value="$PROJECT_DIR$/mypro/public/booku.html" />
+        <option value="$PROJECT_DIR$/mypro/app.js" />
+        <option value="$PROJECT_DIR$/mypro/public/js/1_index.js" />
+        <option value="$PROJECT_DIR$/mypro/public/img/新书馆-博库体验店_files/delegate.html" />
+        <option value="$PROJECT_DIR$/mypro/public/search.html" />
+        <option value="$PROJECT_DIR$/mypro/public/css/search.css" />
+        <option value="$PROJECT_DIR$/mypro/public/product_list.html" />
+        <option value="$PROJECT_DIR$/mypro/public/css/product_list.css" />
+        <option value="$PROJECT_DIR$/mypro/public/js/register.js" />
+        <option value="$PROJECT_DIR$/mypro/public/register.html" />
+        <option value="$PROJECT_DIR$/mypro/public/css/register.css" />
+        <option value="$PROJECT_DIR$/mypro/public/header.html" />
+        <option value="$PROJECT_DIR$/mypro/public/shoppingcar.html" />
+        <option value="$PROJECT_DIR$/mypro/public/login.html" />
+        <option value="$PROJECT_DIR$/mypro/pool.js" />
+        <option value="$PROJECT_DIR$/mypro/routes/1_index.js" />
+        <option value="$PROJECT_DIR$/mypro/public/js/header.js" />
+        <option value="$USER_HOME$/Documents/Tencent Files/352012326/FileRecv/轮播图 组件.js" />
+        <option value="$PROJECT_DIR$/mypro1.0/public/booku.html" />
+        <option value="$PROJECT_DIR$/mypro1.1/public/js/1_index.js" />
+        <option value="$PROJECT_DIR$/mypro1.1/public/booku.html" />
+        <option value="$PROJECT_DIR$/mypro1.1/public/css/header.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/cookie-parser/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/mysql/node_modules/bignumber.js/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/mysql/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/mysql/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/mysql/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/mysql/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/mysql/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/mysql/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/mysql/node_modules/sqlstring/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/mysql/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/mysql/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/mysql/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.0/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/cookie-parser/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/mysql/node_modules/bignumber.js/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/mysql/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/mysql/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/mysql/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/mysql/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/mysql/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/mysql/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/mysql/node_modules/sqlstring/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/mysql/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/mysql/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/mysql/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/mypro1.1/node_modules/unpipe/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="874" />
+    <option name="y" value="58" />
+    <option name="width" value="968" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mypro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mypro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mypro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mypro" type="462c0819:PsiDirectoryNode" />
+              <item name="mypro1.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mypro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mypro" type="462c0819:PsiDirectoryNode" />
+              <item name="mypro1.1" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mypro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mypro" type="462c0819:PsiDirectoryNode" />
+              <item name="mypro1.1" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mypro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mypro" type="462c0819:PsiDirectoryNode" />
+              <item name="mypro1.1" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mypro1.1" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\web\Desktop\mypro1\mypro\public" />
+      <recent name="C:\Users\web\Desktop\mypro1\mypro\public\css" />
+      <recent name="C:\Users\web\Desktop\mypro1\static" />
+      <recent name="C:\Users\web\Desktop\mypro1\img" />
+      <recent name="C:\Users\web\Desktop\mypro1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="booku.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mypro1/static/booku.html" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.booku.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c445d2a-2f11-48a7-b3c7-4c90cb200c18" name="Default" comment="" />
+      <created>1535454905243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535454905243</updated>
+      <workItem from="1535454911418" duration="4997000" />
+      <workItem from="1535628139234" duration="2569000" />
+      <workItem from="1535690810812" duration="2838000" />
+      <workItem from="1535698346894" duration="18612000" />
+      <workItem from="1535775155148" duration="25795000" />
+      <workItem from="1535939689306" duration="26325000" />
+      <workItem from="1536021412620" duration="3016000" />
+      <workItem from="1536026295894" duration="1662000" />
+      <workItem from="1536030463397" duration="2809000" />
+      <workItem from="1536036796162" duration="1266000" />
+      <workItem from="1536044090994" duration="19580000" />
+      <workItem from="1536107632082" duration="3481000" />
+      <workItem from="1536117260408" duration="1914000" />
+      <workItem from="1536122301026" duration="1636000" />
+      <workItem from="1536127313320" duration="409000" />
+      <workItem from="1536145240601" duration="9437000" />
+      <workItem from="1536217291402" duration="14013000" />
+      <workItem from="1536279973584" duration="1501000" />
+      <workItem from="1536300215826" duration="1509000" />
+      <workItem from="1536313897555" duration="544000" />
+      <workItem from="1536563403891" duration="290000" />
+      <workItem from="1536576191476" duration="6599000" />
+      <workItem from="1536806711728" duration="1226000" />
+      <workItem from="1536912823534" duration="2642000" />
+      <workItem from="1536999373117" duration="18680000" />
+      <workItem from="1537018643075" duration="203000" />
+      <workItem from="1537079197185" duration="16831000" />
+      <workItem from="1537144385300" duration="2690000" />
+      <workItem from="1537147120915" duration="783000" />
+      <workItem from="1537147938842" duration="1493000" />
+      <workItem from="1537149515070" duration="7927000" />
+      <workItem from="1537164235401" duration="11004000" />
+      <workItem from="1537177444027" duration="5286000" />
+      <workItem from="1537185960927" duration="3028000" />
+      <workItem from="1537231213105" duration="5333000" />
+      <workItem from="1537320216830" duration="388000" />
+      <workItem from="1537444434660" duration="2465000" />
+      <workItem from="1537836345162" duration="627000" />
+      <workItem from="1538008835745" duration="897000" />
+      <workItem from="1538014401993" duration="784000" />
+      <workItem from="1538051478193" duration="104000" />
+      <workItem from="1538181630565" duration="893000" />
+      <workItem from="1538997346712" duration="5367000" />
+      <workItem from="1539045632252" duration="2889000" />
+      <workItem from="1539081770367" duration="9873000" />
+      <workItem from="1539091815771" duration="66000" />
+      <workItem from="1539131631697" duration="10452000" />
+      <workItem from="1539169716198" duration="8857000" />
+      <workItem from="1539218792981" duration="1518000" />
+      <workItem from="1539223778023" duration="1191000" />
+      <workItem from="1539231547501" duration="2542000" />
+      <workItem from="1539237171055" duration="3572000" />
+      <workItem from="1539242462934" duration="1528000" />
+      <workItem from="1539252308635" duration="10180000" />
+      <workItem from="1539262867852" duration="457000" />
+      <workItem from="1539263570171" duration="610000" />
+      <workItem from="1539304608371" duration="491000" />
+      <workItem from="1539309378315" duration="7221000" />
+      <workItem from="1539320294364" duration="303000" />
+      <workItem from="1539331073433" duration="10317000" />
+      <workItem from="1539405402214" duration="20283000" />
+      <workItem from="1539483299538" duration="5306000" />
+      <workItem from="1539496733358" duration="1899000" />
+      <workItem from="1539573576995" duration="3835000" />
+      <workItem from="1539831486993" duration="8518000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="351361000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19863014" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32900432" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915523" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16069546" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915523" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/js/bootstrap.min.js" />
+    <entry file="file://$PROJECT_DIR$/static/js/popper.min.js" />
+    <entry file="file://$PROJECT_DIR$/static/js/jquery.min.js" />
+    <entry file="file://$PROJECT_DIR$/static/css/bootstrap.css" />
+    <entry file="file://D:/deng/DOM/dom day03/day03/11_navigator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/deng/DOM/dom day 01/teachers day01/3_shoppingCart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/head_footer.html" />
+    <entry file="file://$PROJECT_DIR$/static/css/booku_details.css" />
+    <entry file="file://$PROJECT_DIR$/static/css/header.css" />
+    <entry file="file://$PROJECT_DIR$/static/booku_details.html" />
+    <entry file="file://$PROJECT_DIR$/static/booku.html" />
+    <entry file="file://$PROJECT_DIR$/static/public/js/1_index.js" />
+    <entry file="file://E:/mypro/mypro1/mypro/public/booku.html" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/head_footer.html" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="9700" column="13" selection-start-line="9700" selection-start-column="13" selection-end-line="9700" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/mypro/mypro1/mypro/public/booku_details.html" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/muban.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypro/public/js/details.js" />
+    <entry file="file://D:/deng/vue/vue day03/xz/pool.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypro/public/css/index.css" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/js/footer.js" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/css/footer.css" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/footer.html" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/css/login.css" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/css/booku_details.css" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/css/header.css" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/img/新书馆-博库体验店_files/delegate.html" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/booku_details.html" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/css/search.css" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/search.html" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/js/register.js" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/css/product_list.css" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/register.html" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/css/register.css" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/header.html" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/shoppingcar.html" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/login.html" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/product_list.html" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/js/1_index.js" />
+    <entry file="file://$PROJECT_DIR$/mypro/routes/1_index.js" />
+    <entry file="file://$PROJECT_DIR$/mypro/pool.js" />
+    <entry file="file://$PROJECT_DIR$/mypro/app.js" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/js/header.js" />
+    <entry file="file://$PROJECT_DIR$/mypro/public/booku.html" />
+    <entry file="file://$PROJECT_DIR$/mypro1.0/public/booku.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="687">
+          <caret line="582" column="6" selection-start-line="582" selection-start-column="6" selection-end-line="716" selection-end-column="18" />
+          <folding>
+            <element signature="n#div#0;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#4;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Tencent Files/352012326/FileRecv/轮播图 组件.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="99" column="12" selection-start-line="99" selection-start-column="12" selection-end-line="99" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypro1.1/public/js/1_index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="204" column="21" selection-start-line="204" selection-start-column="21" selection-end-line="204" selection-end-column="21" />
+          <folding>
+            <element signature="e#239#703#0" />
+            <element signature="e#787#896#0" />
+            <element signature="e#926#964#0" />
+            <element signature="e#1292#1929#0" />
+            <element signature="n#div#0;n#!!top" />
+            <element signature="e#7290#8086#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypro1.1/public/css/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypro1.1/public/booku.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="615" column="28" lean-forward="true" selection-start-line="615" selection-start-column="28" selection-end-line="615" selection-end-column="28" />
+          <folding>
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#3979#3985#0" expanded="true" />
+            <element signature="e#3985#3991#0" expanded="true" />
+            <element signature="e#4350#4356#0" expanded="true" />
+            <element signature="e#4356#4362#0" expanded="true" />
+            <element signature="e#4727#4733#0" expanded="true" />
+            <element signature="e#4733#4739#0" expanded="true" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#aside#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#31912#31917#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#32026#32031#0" expanded="true" />
+            <element signature="n#div#2;n#div#2;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#33254#33259#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#li#0;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#33428#33433#0" expanded="true" />
+            <element signature="e#34072#34077#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#li#1;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#34246#34251#0" expanded="true" />
+            <element signature="e#34906#34911#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#li#2;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#35080#35085#0" expanded="true" />
+            <element signature="e#35736#35741#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#li#3;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#35910#35915#0" expanded="true" />
+            <element signature="n#div#4;n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#2;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#38154#38159#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#38272#38277#0" expanded="true" />
+            <element signature="n#div#2;n#div#2;n#div#0;n#div#2;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#39592#39597#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#li#0;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#2;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#39770#39775#0" expanded="true" />
+            <element signature="e#40458#40463#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#li#1;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#2;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#40636#40641#0" expanded="true" />
+            <element signature="e#41340#41345#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#li#2;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#2;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#41518#41523#0" expanded="true" />
+            <element signature="e#42218#42223#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#li#3;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#2;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#42396#42401#0" expanded="true" />
+            <element signature="n#div#4;n#div#0;n#div#2;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#3;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#3;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#44697#44702#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#3;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#44815#44820#0" expanded="true" />
+            <element signature="n#div#2;n#div#2;n#div#0;n#div#3;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#46135#46140#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#li#0;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#3;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#46313#46318#0" expanded="true" />
+            <element signature="e#47001#47006#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#li#1;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#3;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#47179#47184#0" expanded="true" />
+            <element signature="e#47883#47888#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#li#2;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#3;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#48061#48066#0" expanded="true" />
+            <element signature="e#48761#48766#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#li#3;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#3;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#48939#48944#0" expanded="true" />
+            <element signature="n#div#4;n#div#0;n#div#3;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#4;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#51243#51248#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#4;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#51361#51366#0" expanded="true" />
+            <element signature="n#div#2;n#div#2;n#div#0;n#div#4;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#52681#52686#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#li#0;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#4;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#52859#52864#0" expanded="true" />
+            <element signature="e#53547#53552#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#li#1;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#4;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#53725#53730#0" expanded="true" />
+            <element signature="e#54429#54434#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#li#2;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#4;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#54607#54612#0" expanded="true" />
+            <element signature="e#55307#55312#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#li#3;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#4;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#55485#55490#0" expanded="true" />
+            <element signature="n#div#4;n#div#0;n#div#4;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#5;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#5;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#57789#57794#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#5;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#57907#57912#0" expanded="true" />
+            <element signature="n#div#2;n#div#2;n#div#0;n#div#5;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#59227#59232#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#li#0;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#5;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#59405#59410#0" expanded="true" />
+            <element signature="e#60093#60098#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#li#1;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#5;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#60271#60276#0" expanded="true" />
+            <element signature="e#60975#60980#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#li#2;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#5;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#61153#61158#0" expanded="true" />
+            <element signature="e#61853#61858#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#li#3;n#ul#0;n#div#2;n#div#2;n#div#0;n#div#5;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#62031#62036#0" expanded="true" />
+            <element signature="n#div#4;n#div#0;n#div#5;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#64011#64016#0" expanded="true" />
+            <element signature="e#64142#64147#0" expanded="true" />
+            <element signature="e#64566#64571#0" expanded="true" />
+            <element signature="e#64697#64702#0" expanded="true" />
+            <element signature="e#65121#65126#0" expanded="true" />
+            <element signature="e#65252#65257#0" expanded="true" />
+            <element signature="e#65672#65677#0" expanded="true" />
+            <element signature="e#65803#65808#0" expanded="true" />
+            <element signature="e#66227#66232#0" expanded="true" />
+            <element signature="e#66358#66363#0" expanded="true" />
+            <element signature="e#66891#66896#0" expanded="true" />
+            <element signature="e#67022#67027#0" expanded="true" />
+            <element signature="e#67448#67453#0" expanded="true" />
+            <element signature="e#67579#67584#0" expanded="true" />
+            <element signature="e#67992#67997#0" expanded="true" />
+            <element signature="e#68123#68128#0" expanded="true" />
+            <element signature="e#68543#68548#0" expanded="true" />
+            <element signature="e#68674#68679#0" expanded="true" />
+            <element signature="e#69098#69103#0" expanded="true" />
+            <element signature="e#69229#69234#0" expanded="true" />
+            <element signature="e#70849#70854#0" expanded="true" />
+            <element signature="e#70948#70953#0" expanded="true" />
+            <element signature="e#71832#71837#0" expanded="true" />
+            <element signature="e#71931#71936#0" expanded="true" />
+            <element signature="e#72805#72810#0" expanded="true" />
+            <element signature="e#72904#72909#0" expanded="true" />
+            <element signature="e#73728#73733#0" expanded="true" />
+            <element signature="e#73827#73832#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypro1.1/public/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="499" column="18" selection-start-line="499" selection-start-column="18" selection-end-line="499" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

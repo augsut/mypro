@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name = "viewport" content = "width=device-width,initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/booku_details.css">
+    <title>Title</title>
+</head>
+<body>
+
+        <div class="full">
+            <header class="bg-light">
+                <div class="container">
+                    <!--第一行:上标签-->
+                    <div class = "row p-2 ">
+                        <div class="col-2">
+                            <a href="#">登录</a>
+                            <span>|</span>
+                            <a href="#">注册</a>
+                        </div>
+                        <div class="col-2">
+                            <img src="../img/phone.png" alt="">
+                            <a href="#">下载博库App</a>
+                        </div>
+                        <div class="col-4 offset-4 d-flex justify-content-between">
+                            <!--我的博库下拉菜单-->
+                            <div class="dropdown">
+                                <a href="#" class="" data-toggle="dropdown">
+                                    我的博库
+                                    <img src="../img/arrow.png" alt="">
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li class="dropdown-item"><a href="#" class="my_font">我的订单</a></li>
+                                    <li class="dropdown-item"><a href="#" class="my_font">我的优惠券</a></li>
+                                    <li class="dropdown-item"><a href="#" class="my_font">我的收藏</a></li>
+                                    <li class="dropdown-item"><a href="#" class="my_font">我的收入</a></li>
+                                    <li class="dropdown-item"><a href="#" class="my_font">官方消息</a></li>
+                                </ul>
+                            </div>
+
+                            <span></span>
+                            <span>|</span>
+                            <a href="#" clas="my_font">收藏夹</a>
+                            <span>|</span>
+                            <a href="#" clas="my_font">店铺管理</a>
+                            <span>|</span>
+                            <a href="#" clas="my_font">关于我们</a>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <!--第二行:搜索框-->
+            <div class="container">
+                <div class="row mt-4">
+                    <!--左侧图片-->
+                    <div class="col-3">
+                        <img src="../img/logo.png" alt="">
+                    </div>
+                    <!--中间搜素框-->
+                    <div class="col-5 pr-0 d-flex flex-column ml-5">
+                        <div class="search">
+                            <input type="text" class="form-control rounded-0 border border-2 border-primary my_input w-100 text-muted" placeholder="故宫日历(精)">
+                        </div>
+                        <!--搜素框下的导航-->
+                        <ul class="d-flex list-unstyled">
+                            <li>
+                                <a href="#" class="text-danger m-2 my_font" title="半小时漫画">半小时漫画</a>
+                                <span>|</span>
+                            </li>
+                            <li>
+                                <a href="#" class="text-muted ml-2 my_font" title="">百年孤独</a>
+                                <span>|</span>
+                            </li>
+                            <li>
+                                <a href="#" class="text-muted ml-2 my_font mr-1" title="">三体</a>
+                                <span>|</span>
+                            </li>
+                            <li>
+                                <a href="#" class="text-muted ml-2 my_font" title="">寄世书</a>
+                                <span>|</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-1 pl-0">
+                        <a href="#" style="display:inline-block;width:70px;height:42px;
+                background:#0AA1ED" class="pl-3 pt-1">
+                            <img src="../img/search.png" alt="" class="">
+                        </a>
+                    </div>
+                    <div class="col-1 offset-1 pr-0">
+                        <!--右侧购物车-->
+                        <button class="text-muted btn btn-light pr-4 pl-4">
+                            <img src="../img/shop_car.png" alt="" class="ml-0 mr-1" >
+                            购物车
+                        </button>
+                    </div>
+                </div>
+                <!--第三行：导航栏-->
+                <nav class="mt-3 container">
+                    <ul class="nav d-flex flex-nowrap">
+                        <li class=" my_nav_color  pl-5 pr-5 pt-2">
+                            <a href="#">
+                                <img src="../img/sanxian.png" alt="">
+                                <a class="text-white pb-3">所有商品分类
+                                        <!--详情分类栏-->
+                                        <nav class="detail_nav ">
+                                            <ul class="nav">
+                                                <li class=" d-flex my_detail_a">
+                                                    <a href="#" class="nav-link my_detail_a">
+                                                        <img src="../img/plate_52_1.png" alt="" class="pr-3">
+                                                        文学艺术
+                                                        <span class="mt-1 ml-4" class="">
+                                <img src="../img/arrow-right.png" alt="" class="h-50">
+                            </span>
+                                                    </a>
+                                                </li>
+                                                <li class=" d-flex">
+                                                    <a href="#" class="nav-link my_detail_a">
+                                                        <img src="../img/plate_52_1.png" alt="" class="pr-3">
+                                                        少儿童书
+                                                        <span class="mt-1 ml-4" class="">
+                                <img src="../img/arrow-right.png" alt="" class="h-50">
+                            </span>
+                                                    </a>
+                                                </li>
+                                                <li class=" d-flex">
+                                                    <a href="#" class="nav-link my_detail_a">
+                                                        <img src="../img/plate_52_2.png" alt="" class="pr-3">
+                                                        人文社科
+
+                                                        <span class="mt-1 ml-4" class="">
+                                <img src="../img/arrow-right.png" alt="" class="text-white h-50">
+                            </span>
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item d-flex">
+                                                    <a href="#" class="nav-link my_detail_a">
+                                                        <img src="../img/plate_52_3.png" alt="" class="pr-3">
+                                                        经管励志
+                                                        <span class="mt-1 ml-4" class="">
+                                <img src="../img/arrow-right.png" alt="" class="h-50">
+                            </span>
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item d-flex">
+                                                    <a href="#" class="nav-link my_detail_a">
+                                                        <img src="../img/plate_52_4.png" alt="" class="pr-3">
+                                                        生活时尚
+                                                        <span class="mt-1 ml-4" class="">
+                                <img src="../img/arrow-right.png" alt="" class="text-white h-50">
+                            </span>
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item d-flex">
+                                                    <a href="#" class="nav-link my_detail_a">
+                                                        <img src="../img/plate_52_5.png" alt="" class="pr-3">
+                                                        科技教育
+                                                        <span class="mt-1 ml-4" class="">
+                                <img src="../img/arrow-right.png" alt="" class="h-50">
+                            </span>
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item d-flex">
+                                                    <a href="#" class="nav-link my_detail_a">
+                                                        <img src="../img/plate_52_1.png" alt="" class="pr-3">
+                                                        创意文具
+                                                        <span class="mt-1 ml-4" class="">
+                                <img src="../img/arrow-right.png" alt="" class="text-white h-50">
+                            </span>
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item d-flex">
+                                                    <a href="#" class="nav-link my_detail_a">
+                                                        <img src="../img/plate_52_1.png" alt="" class="pr-3">
+                                                        生活美学
+                                                        <span class="mt-1 ml-4" class="">
+                                <img src="../img/arrow-right.png" alt="" class="text-white h-50">
+                            </span>
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item d-flex my_detail_a">
+                                                    <a href="#" class="nav-link my_detail_a">
+                                                        <img src="../img/plate_52_1.png" alt="" class="pr-3">
+                                                        居家日用
+                                                        <span class="mt-1 ml-4" class="">
+                                <img src="../img/arrow-right.png" alt="" class="text-white h-50">
+                            </span>
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item d-flex">
+                                                    <a href="#" class="nav-link my_detail_a">
+                                                        <img src="../img/plate_52_1.png" alt="" class="pr-3">
+                                                        影音原版
+                                                        <span class="mt-1 ml-4" class="">
+                                <img src="../img/arrow-right.png" alt="" class=" h-50">
+                            </span>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </nav>
+                                </a>
+                            </a>
+
+                        </li>
+                        <li class="nav-item ml-5">
+                            <a href="#" class="nav-link my_a_color">
+                                首页
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">
+                                新品
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">
+                                限时购
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">
+                                排行榜
+                            </a>
+                        </li>
+                        <span class="mt-2">|</span>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">
+                                图书馆
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">
+                                文创管
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">
+                                生活美学馆
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+            <div>
+                <div class=" crousle_outer">
+                    <footer>
+                        <!--第一部分 底部-->
+                        <div class="site_footer mt-4">
+                            <div class="container">
+                                <div class="row mt-3 d-flex justify-content-around">
+                                    <img src="../img/zheng.png" alt="">
+                                    <div class="d-flex flex-column">
+                                        <h4 class="">正品保证</h4>
+                                        <p class=" span_font">
+                                            出版社直采·博库正品
+                                        </p>
+                                    </div>
+                                    <img src="../img/sheng.png" alt="">
+                                    <div class="d-flex flex-column">
+                                        <h4 class="">全场满59包邮</h4>
+                                        <p class=" span_font">
+                                            惊喜不断·让利多多
+                                        </p>
+                                    </div>
+                                    <img src="../img/huo.png" alt="">
+                                    <div class="d-flex flex-column">
+                                        <h4 class="">门店自取</h4>
+                                        <p class=" span_font">
+                                            就近取货·方式灵活
+                                        </p>
+                                    </div>
+                                    <img src="../img/hao.png" alt="">
+                                    <div class="d-flex flex-column">
+                                        <h4 class="">售后无忧</h4>
+                                        <p class=" span_font">
+                                            服务体验·更加精彩
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--第二行-->
+                        <div class="container mt-5">
+                            <div class="row d-flex justify-content-around flex-nowrap">
+                                <!--左侧列表-->
+
+                                <ul class="list-unstyled">
+                                    <li class="ml-2">
+                                        新手指南
+                                    </li>
+                                    <li class="mt-3"><a href="#">新用户注册</a></li>
+                                    <li><a href="#">购物流程</a></li>
+                                    <li><a href="#">积分制度</a></li>
+                                    <li><a href="#">注册开店</a></li>
+                                    <li><a href="#">激励制度</a></li>
+                                </ul>
+
+
+                                <ul class="list-unstyled">
+                                    <li class="ml-2">
+                                        新手指南
+                                    </li>
+                                    <li class="mt-3"><a href="#">新用户注册</a></li>
+                                    <li><a href="#">购物流程</a></li>
+                                    <li><a href="#">积分制度</a></li>
+                                    <li><a href="#">注册开店</a></li>
+                                    <li><a href="#">激励制度</a></li>
+                                </ul>
+
+
+                                <ul class="list-unstyled">
+                                    <li class="ml-2">
+                                        新手指南
+                                    </li>
+                                    <li class="mt-3"><a href="#">新用户注册</a></li>
+                                    <li><a href="#">购物流程</a></li>
+                                    <li><a href="#">积分制度</a></li>
+                                    <li><a href="#">注册开店</a></li>
+                                    <li><a href="#">激励制度</a></li>
+                                </ul>
+
+
+                                <ul class="list-unstyled">
+                                    <li class="ml-2">
+                                        新手指南
+                                    </li>
+                                    <li class="mt-3"><a href="#">新用户注册</a></li>
+                                    <li><a href="#">购物流程</a></li>
+                                    <li><a href="#">积分制度</a></li>
+                                    <li><a href="#">注册开店</a></li>
+                                    <li><a href="#">激励制度</a></li>
+                                </ul>
+
+
+                                <ul class="list-unstyled">
+                                    <li class="ml-2">
+                                        新手指南
+                                    </li>
+                                    <li class="mt-3"><a href="#">新用户注册</a></li>
+                                    <li><a href="#">购物流程</a></li>
+                                    <li><a href="#">积分制度</a></li>
+                                    <li><a href="#">注册开店</a></li>
+                                    <li><a href="#">激励制度</a></li>
+                                </ul>
+
+                                <!--右侧二维码-->
+
+
+                                <div class="d-flex flex-column">
+                                    <div class="d-flex ">
+                                        <ul class="list-unstyled ">
+                                            <li class="ml-3">
+                                                手机博库
+                                            </li>
+                                            <li>
+                                                <img src="../img/app.jpg" alt="" class="my_boku_erweima">
+                                            </li>
+                                            <li>
+                                                <a href="#">下载手机客户端</a>
+                                            </li>
+                                        </ul>
+                                        <ul class="list-unstyled ">
+                                            <li class="ml-3">
+                                                关注微信
+                                            </li>
+                                            <li>
+                                                <img src="../img/app.jpg" alt="" class="my_boku_erweima">
+                                            </li>
+                                            <li>
+                                                <a href="#">关注官方微信</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div>
+                                        <h5 class="font-weight-bold">
+                                            服务热线 0571-26306883
+                                        </h5>
+                                        <span>服务时间 9：00-21：00</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </footer>
+                </div>
+                <!--第二部分 底部-->
+                <div class="my_copyright text-center d-flex justify-content-center p-4">
+                    <div class="mt-3 mr-3">
+                        <img src="../img/jingcha.png" alt="" class="p-2">
+                        <img src="../img/huizhang.png" alt="">
+                    </div>
+                    <div>
+                        <p class="mb-0 mt-2">&copy;Copyright 2005-2017 bookuu.com 版权所有 <br>
+
+                            增值电信业务经营许可证:浙B2-2011021</p>
+                        <h6><a href="#" class="active">出版物经营许可证新出发浙批字第300411号</a></h6>
+                    </div>
+                    <div class="mt-3 ml-3">
+                        <img src="../img/cert.png" alt="" class="p-2">
+                        <img src="../img/knetSealLogo.png" alt="">
+                    </div>
+                </div>
+
+            </div>
+                </div>
+
+
+</body>
+</html>

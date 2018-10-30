@@ -1,0 +1,125 @@
+.login{
+    height:600px;
+    background:url("../img/bannner.jpg")no-repeat center;
+    position:relative;
+}
+.container{
+    min-width: 1200px;
+
+}
+.login>.container>.login-form{
+    width:420px;
+    height:451px;
+    border:1px solid #ccc;
+    position:absolute;
+    top:75px;
+    right:400px;
+    background:#FFFFFF;
+
+
+}
+.login-form>p{
+    color:#2db4ea;
+}
+.container>.login-form>ul{
+    position: relative;
+    height:400px;
+}
+.container>.login-form>ul>li.login_first>div{
+    position:absolute;
+    z-index: 1;
+    height:38px;
+    left:21px;
+    top:1px;
+}
+.container>.login-form>ul>li.login_first>input{
+    position:absolute;
+    width:378px;
+    height:36px;
+    left:20px;
+    /*border-radius:5px;*/
+    padding-left: 50px;
+    font-size:14px;
+}
+.container>.login-form>ul>li>div.login_secend{
+    position:absolute;
+    z-index: 1;
+    height:38px;
+    left:21px;
+    top:61px;
+}
+.container>.login-form>ul>li>div.login_secend+input{
+    position:absolute;
+    width:378px;
+    height:36px;
+    left:20px;
+    padding:0;
+    /*border-radius:5px;*/
+    padding-left: 50px;
+    font-size:14px;
+    top:60px;
+    border:1px solid #A9A9A9;
+}
+.container>.login-form>ul>li.login_third{
+    position:absolute;
+    height:40px;
+    top:120px;
+    left:20px;
+}
+.container>.login-form>ul>li.login_third>input{
+    height:40px;
+    width:120px;
+    outline-style: none;
+    border-radius: 5px;
+    padding:0;
+    border:1px solid #A9A9A9;
+}
+canvas{
+    background: red;
+    position:absolute;
+    top:5px;
+    left:185px;
+}
+li.login_third>canvas+span{
+    position:absolute;
+   right:-180px;
+    top:10px;
+    color:#2db4ea;
+    cursor:pointer;
+}
+.login_four>a>span{
+    clear:both;
+    display: inline-block;
+    height:20px;
+    margin-top:175px;
+    margin-left:330px;
+    color:#2db4ea;
+}
+.login_four+li>p.text-center>a.login_btn{
+    display: inline-block;
+    width:380px;
+    height:40px;
+    background-color:#2db4ea;
+    border-radius: 5px;
+    line-height:40px;
+    text-decoration: none;
+    color:white;
+    margin-top:0;
+}
+
+.login_four+li>p>a{
+    text-decoration:none;
+}
+
+.login_four+li>div.login_footer>a{
+    color:#2db4ea;
+    position:absolute;
+    bottom:57px;
+    left:140px;
+}
+.login_four+li>div.login_footer>div{
+    background: url("../img/login_icon.png")no-repeat -45px 0;
+    height:38px;
+    width:380px;
+
+}

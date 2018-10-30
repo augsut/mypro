@@ -1,0 +1,159 @@
+
+.my_del{
+    border:1px solid lightgrey;
+    width:28px;
+    height:28px;
+    cursor: pointer;
+}
+.details_bigimg.bg-light>.details_search{
+    margin-bottom:-401px;
+    margin-right:0;
+    cursor:pointer;
+}
+.my_del+input{
+    width:56px;
+    height:28px;
+}
+.my_buynow_button {
+    width:180px;
+    height:54px;
+    line-height:54px;
+    background:deepskyblue;
+    text-align: center;
+    font-size:18px;
+}
+.my_buynow_button+div{
+    background:#D5F0FB;
+    border:1px solid #38B8EB;
+    color:#2DB4EA;
+}
+.my_buynow_button+.my_collect{
+    width:60px;
+}
+.new_suggest{
+    height:1800px;
+    width:218px;
+}
+.right_expren>p>img{
+   border-radius:50%;
+    height:70px;
+    width:70px;
+}
+.right_expren>p>a{
+    border:1px solid lightgray;
+    display:inline-block;
+    border-radius:20px;
+    height:30px;
+    width:100px ;
+   text-align:center;
+    line-height:30px;
+    background:#2AB4E8;
+}
+.pl-2.details_middle{
+   width:515px;
+}
+
+.details_look{
+    width:200px;
+    height:271px;
+    border:1px solid #E8E8E8;
+}
+.details_look>a>img{
+    width:169px;
+    height:169px;
+}
+.details_look>h4>span{
+    font-size:12px;
+}
+.product_details{
+    width:120px;
+    height:50px;
+    color:#2AB4E8;
+    line-height:50px;
+    position:relative;
+
+}
+.details_middle2{
+    border:1px solid #E8E8E8;
+    width:838px;
+    height:230px;
+}
+.details_middle2>.details_three{
+    margin-top:-48px;
+}
+.product_details>span{
+   display: inline-block;
+    width:120px;
+    position:absolute;
+    top:0;
+    height:1px;
+    left:0;
+    border:1px solid #2AB4E8;
+}
+.details_comment{
+    height:50px;
+    line-height:50px;
+    width:718px;
+}
+.details_list>li{
+    width:258.66px;
+    height:30px;
+}
+.details_list>li>span{
+    color:black !important;
+}
+.details_intr{
+    border:1px solid #E8E8E8;
+
+}
+.details_intr>span.text-dark{
+    display: inline-block;
+    width:86px;
+    height:25px;
+    border-left:2px solid #2AB4E8;
+   background: #F3F3F3;
+    line-height:25px;
+}
+.details_intr>span+span{
+    display: inline-block;
+    width:700px;
+    border-bottom: 1px solid #E8E8E8;
+    margin-left:0;
+}
+.details_comments {
+    border:1px solid #E8E8E8;
+    border-top: 2px solid #2AB4E8;
+}
+.details_comments>div>img+span{
+    font-size:40px;
+}
+.details_comments>div>img{
+    margin-top:-19px;
+}
+.details_comments>div>span{
+    color:#2AB4E8;
+}
+.details_three{
+    border:8px solid transparent;
+    border-top: 8px solid #2AB4E8;
+    width:8px;
+    margin-top:-45px;
+    margin-left:50px;
+}
+.details_comments>.details_commentlist>ul>li>img{
+    width:70px;
+    height:70px;
+}
+.details_comments>.details_commentlist>ul>li>img.little{
+    width:50px;
+    height:20px;
+}
+
+.active>span{
+    color:#2AB4E8 !important;
+}
+.details_intr>span+p{
+    line-height:20px;
+    font-size:14px;
+    text-indent: 25px;
+}

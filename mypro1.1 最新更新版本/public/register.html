@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name = "viewport" content = "width=device-width,initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/register.css">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    
+    <title>博库网</title>
+</head>
+
+<body>
+    <header id="header"></header>
+    <div class="register">
+        <div class="container">
+            <!--头部图片-->
+            <div class="mt-5">
+                <img src="img/logo_login.png" alt="">
+            </div>
+            <hr>
+            <!--表单区域-->
+            <div class="register_form">
+                <p class="strong"><b>用户注册</b></p>
+                    <div class="d-flex justify-content-start">
+                        <div>
+                            <p class="register_left  h-100 text-center text-white">1.填写注册信息</p>
+
+                        </div>
+
+                            <p class="register_right text-center">2.注册成功</p>
+                    </div>
+                <form action="" class="register_forms">
+                    <ul class="list-unstyled">
+                        <li class="">
+                            用户昵称: <input type="text" name="uname" id="uname">
+                            <span class="info"></span>
+                        </li>
+                        <li>
+                            图形验证码: <input type="text"><canvas width="90" height="30" id="c3"></canvas>
+                            <span class="small" style="color: #0AA1ED;">看不清楚，换一张</span>
+                        </li>
+                        <li class="mt-4">
+                            验证码: <input type="text"> <button>获取验证码</button>
+                        </li>
+                        <li>
+                            密码: <input type="password" name="upwd" id="upwd">
+                            <img src="img/pwd_img.jpg" alt="">
+                        </li>
+                        <li class="d-flex flex-wrap">
+                            <a href="" class="register_login">注册</a>
+                            <a class="" href="login.html">已有账号 前往登录</a>
+                        </li>
+                        <li>
+                        </li>
+                        <li class="register_reading">
+                            <input type="checkbox">我已阅读并同意 <a href=""> 《博库网用户注册协议》</a>
+                            <a href="" class="ml-5">《博库网隐私政策》</a>
+                        </li>
+                    </ul>
+
+                </form>
+            </div>
+        </div>
+    </div>
+    <footer id="footer"></footer>
+    <script>
+    </script>
+    <script src="js/header.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/register.js"></script>
+    <script>
+        var crpwd=[];
+        function getPass(){
+            let c3=document.getElementById("c3");
+            let ctx = c3.getContext("2d");
+            ctx.fillStyle="white";
+            ctx.fillRect(0,0,75,25);
+            let str = "0123456789";
+            for(let i =0;i<4;i++){
+                let c=(rn(0,str.length));
+                crpwd.push(c)
+                let x=i*15+10;
+                let y=3;
+                ctx.fillStyle="black";
+                ctx.textBaseline="top";
+                ctx.font="16px sans-serif";
+                ctx.fillText(c,x,y)}
+            //    干扰的5条线
+            for(let i=0;i<=5;i++){
+                ctx.beginPath();
+                ctx.strokeStyle="black";
+                ctx.moveTo(rn(0,75),rn(0,25))
+                ctx.lineTo(rn(0,75),rn(0,25));
+                ctx.stroke();
+            }
+
+        }
+        getPass();
+
+        var change=document.querySelector(".small");
+        console.log(change)
+        change.onclick=function(){
+            getPass();
+        };
+        function rn(min,max){
+            let a = Math.floor(Math.random()*(max-min)+min);
+            return  a
+        }
+    </script>
+</body>
+
+</html>
